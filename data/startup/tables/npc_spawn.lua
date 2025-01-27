@@ -961,5 +961,6 @@ NpcTable = {
 	[960] = {name = "Rashid", position = {x = 32844, y = 31230, z = 7}},
 	[961] = {name = "customShop", position = {x = 32844, y = 31236, z = 7}},
 	[962] = {name = "nah_bob", position = {x = 32845, y = 31230, z = 7}},
-	[963] = {name = "Haroun", position = {x = 32846, y = 31236, z = 7}}
+	[963] = {name = "Haroun", position = {x = 32846, y = 31236, z = 7}},	
+	[964] = {name = "imbuement_assistant", position =  {x = 32840, y = 31236, z = 7}}
 }

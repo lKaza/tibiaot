@@ -5,6 +5,7 @@
 	<parameters>
 		<parameter key="module_shop" value="1"/>
 		<parameter key="shop_buyable" value="
+			teleport scroll, 29019, 100;
 			backpack, 1988, 10;
 			bag, 1987, 4;
 			fishing rod, 2580, 150;
